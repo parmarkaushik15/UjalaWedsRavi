@@ -360,7 +360,7 @@ slider-area
 }
 
 .single-slider {
-    background: url(../img/ujala1.png) no-repeat center top / cover;
+    background: url(../img/ujala1.jpg) no-repeat center top / cover;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -1044,7 +1044,7 @@ sweet-area
 =================================*/
 
 .sweet-area {
-    background: url(../img/ujala4.png) no-repeat;
+    background: url(../img/ujala4.jpg) no-repeat;
     position: relative;
 	
 	background-size: 100% 100%;
